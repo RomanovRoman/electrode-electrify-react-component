@@ -14,13 +14,14 @@
   "homepage": "https://github.com/georgeweiler/electrode-electrify-react-component",
   "dependencies": {
     "d3": "^3.4.3",
+    "electrode-gulp-helper": "^1.0.5",
     "lodash": "^4.17.2",
     "material-ui": "^0.16.4",
     "prettysize": "0.0.3"
   },
   "devDependencies": {
-    "electrode-archetype-react-component": "^1.0.0",
-    "electrode-archetype-react-component-dev": "^1.0.0",
+    "electrode-archetype-react-component": "RomanovRoman/electrode-archetype-react-component#develop",
+    "electrode-archetype-react-component-dev": "RomanovRoman/electrode-archetype-react-component#develop",
     "gulp": "^3.9.1"
   },
   "engines": {
